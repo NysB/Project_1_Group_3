@@ -14,3 +14,5 @@
 - Dataset on Climate by country. Source: https://www.kaggle.com/datasets/davidbnn92/weather-data-for-covid19-data-analysis
 
 ## Outcome:
+- Our analysis can be found in file "factors_covid.ipynb"
+- Result can be found in "xxxx.ppt"
