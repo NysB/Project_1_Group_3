@@ -10,7 +10,7 @@
 - Dataset on COVID-19 by country. Source: https://www.kaggle.com/datasets/imdevskp/corona-virus-report?resource=download
 - Dataset on Air Quality by country. Source: https://www.kaggle.com/datasets/cityapiio/world-cities-air-quality-and-water-polution
 - Dataset on Government Response during COVID-19 by country. Source: https://www.kaggle.com/datasets/rhfall/government-response-to-covid19-worldwide
-- Dataset on Vaccination Rate during COVID-19 by country. Source: https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress
+- Dataset on Vaccination Rate during COVID-19 by country. https://www.kaggle.com/datasets/carlaoliveira/country-data-on-covid19
 - Dataset on Climate by country. Source: https://www.kaggle.com/datasets/davidbnn92/weather-data-for-covid19-data-analysis
 
 ## Outcome:
