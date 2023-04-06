@@ -2,7 +2,7 @@
 
 The aim of this assignment was to examine the influence of various factors on the spread of COVID-19, and to determine if any regional discrepancies existed. 
 
-The factors that we have considered, are the following:
+The factors that we have considered are the following:
 1. Climate: 
   1.1 Countries with higher average temperatures exhibit increased numbers of COVID-19 cases
   1.2 Countries with higher levels of humidity exhibit increased numbers of COVID-19 cases?
