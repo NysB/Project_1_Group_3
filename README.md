@@ -1,6 +1,6 @@
 # The influence of various factors on the spread of COVID-19
 
-The aim of this assignment was to examine the influence of various factors on the spread of COVID-19, and to determine if any regional discrepancy existed. 
+The aim of this assignment was to examine the influence of various factors on the spread of COVID-19, and to determine if any regional discrepancies existed. 
 
 The factors that we have considered, are the following:
 1. Climate: 
