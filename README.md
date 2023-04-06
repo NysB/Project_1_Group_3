@@ -16,3 +16,10 @@
 ## Outcome:
 - Our analysis can be found in file "factors_covid.ipynb"
 - Result can be found in "xxxx.ppt"
+
+Class, your readme.md file should contain the following information:
+project title (For example, "Influence of music practice on math skills", dont just use "project 1")
+1-2 sentence summary of the project
+A link to your presentation (either to the file, if it is in your repo, or to a google doc or wherever it is)
+A "how-to-run" guide. It should list what packages you imported, and what files (probably 1 or 2 notebooks) a user should run to repeat your process.
+A list of data sources you consulted.
