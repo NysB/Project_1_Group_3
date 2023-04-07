@@ -1,18 +1,39 @@
-# Project 1: What factors have contributed to the spread of COVID-19 in different regions of the world
+# The influence of various factors on the spread of COVID-19
 
-## Factors:
-- Climate: How has the difference in climate across different countries, contributed to the spread of COVID-19?
-- Government Response: How has the difference in government response contributed to the spread of COVID-19?
-- Vaccination Rate: Has a higher proportion of vaccinated people lead to lower rates of severe illness and death with regards to COVID-19?
-- Air pollution rate: Did areas with poor air quality have higher rates of COVID-19 transmission?
+## Introduction:
+
+The aim of this assignment was to examine the influence of various factors on the spread of COVID-19, and to determine if any regional discrepancies existed. 
+
+The factors that we have considered are the following:
+1. Climate: Countries with higher average temperatures or higher levels of humidity exhibit increased numbers of COVID-19 cases. 
+2. Government Response: Extended periods of school- and workplace closing, and international travel restrictions, have lead to a lower spread of COVID-19 cases.
+3. Vaccination Rate: Higher vaccination rates result in lower reproduction rates and lower death rates.   
+4. Air quality: Areas with poor air quality have shown higher rates of COVID-19 cases.
 
 ## Data:
+
+For our analysis, we have used the following datasets. These can also be found in folder "Dataset":
 - Dataset on COVID-19 by country. Source: https://www.kaggle.com/datasets/imdevskp/corona-virus-report?resource=download
 - Dataset on Air Quality by country. Source: https://www.kaggle.com/datasets/rajkumarpandey02/worlds-most-air-polluted-countries-cities?select=World+most+polluted+countries++regions+historical+data+2018-2021.csv
 - Dataset on Government Response during COVID-19 by country. Source: https://www.kaggle.com/datasets/rhfall/government-response-to-covid19-worldwide
 - Dataset on Vaccination Rate during COVID-19 by country. https://www.kaggle.com/datasets/carlaoliveira/country-data-on-covid19
 - Dataset on Climate by country. Source: https://www.kaggle.com/datasets/davidbnn92/weather-data-for-covid19-data-analysis
+- Restcountries API. Source: https://restcountries.com/
 
 ## Outcome:
-- Our analysis can be found in file "factors_covid.ipynb"
-- Result can be found in "xxxx.ppt"
+
+- Our analysis was done using Python, for which the code can be found in file "factors_covid.ipynb"
+- The result of our analysis was summarized in "Factors on the spread of COVID-19.pptx"
+- In addition, all graphs can be found in folder "Result"
+
+## How-ro-run guide:
+
+No additional packages have been installed. To rerun our analysis, please select "Run All" in the "factors_covid.ipynb" file. 
+
+## Team members:
+
+- Helena Fedorenko
+- Xing Ying Chen
+- Kevin Guillemette
+- Brecht Nys
+
