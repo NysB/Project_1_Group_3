@@ -5,19 +5,9 @@
 The aim of this assignment was to examine the influence of various factors on the spread of COVID-19, and to determine if any regional discrepancies existed. 
 
 The factors that we have considered are the following:
-1. Climate: 
-  
-    1.1 Countries with higher average temperatures exhibit increased numbers of COVID-19 cases
-    
-    1.2 Countries with higher levels of humidity exhibit increased numbers of COVID-19 cases
-  
-2. Government Response: Extended periods of school- and workplace closing and international travel restrictions have lead to a lower spread of COVID-19 cases
-3. Vaccination Rate:
-
-    3.1 Higher vaccination rates result in a lower reproduction rate
-    
-    3.2 Higher vaccination rates result in a lower death rate
-    
+1. Climate: Countries with higher average temperatures or higher levels of humidity exhibit increased numbers of COVID-19 cases. 
+2. Government Response: Extended periods of school- and workplace closing, and international travel restrictions, have lead to a lower spread of COVID-19 cases.
+3. Vaccination Rate: Higher vaccination rates result in lower reproduction rates and lower death rates.   
 4. Air quality: Areas with poor air quality have shown higher rates of COVID-19 cases.
 
 ## Data:
