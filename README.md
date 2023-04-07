@@ -11,7 +11,7 @@ The factors that we have considered are the following:
     
     1.2 Countries with higher levels of humidity exhibit increased numbers of COVID-19 cases
   
-2. Government Response: Longer periods of closed: schools, workplaces and international travel have lead to a lower spread of COVID-19 cases
+2. Government Response: Extended periods of school- and workplace closing and international travel restrictions have lead to a lower spread of COVID-19 cases
 3. Vaccination Rate:
 
     3.1 Higher vaccination rates result in a lower reproduction rate
