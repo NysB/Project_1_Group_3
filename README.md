@@ -33,7 +33,7 @@ For our analysis, we have used the following datasets. These can also be found i
 ## Outcome:
 
 - Our analysis was done using Python, for which the code can be found in file "factors_covid.ipynb"
-- The result of our analysis was summarized in "Factors on the spread of COVID-19.ppt"
+- The result of our analysis was summarized in "Factors on the spread of COVID-19.pptx"
 - In addition, all graphs can be found in folder "Result"
 
 ## How-ro-run guide:
